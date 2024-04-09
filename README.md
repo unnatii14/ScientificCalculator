@@ -1,17 +1,6 @@
-# ScientificCalculator
-## Scientific Calculator Program in c++.
-  It supports oprations like 
-  - Addition
-  -  Subtract 
-  - Multiply
-  - Divide
-  - Sine
-  - Cosine
-  - Tangent
-  - Power
-  - Square Root
-  - Natural Logarithm
-  - Logarithm (Custom Base)
+#Year Calender
+#Year Calender program using C++
+
 
 ## About Us: 
 - Krishana Patel
